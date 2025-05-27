@@ -1,0 +1,7 @@
+lk/zerocode/api/repository/MemberRepositoryTest.class
+lk/zerocode/api/SpringBootUnitTestingApplicationTests.class
+lk/zerocode/api/controller/MemberControllerMockitoUnitTest.class
+lk/zerocode/api/service/impl/MemberServiceImplPureMockitoUnitTest.class
+lk/zerocode/api/service/impl/MemberServiceImpISpringIntegrationTest.class
+lk/zerocode/api/service/impl/MemberServiceImpISpringUnitTest.class
+lk/zerocode/api/controller/MemberControllerIntegrationTest.class

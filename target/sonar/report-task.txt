@@ -1,0 +1,6 @@
+projectKey=lk.zerocdoe:spring-boot-unit-testing
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=lk.zerocdoe%3Aspring-boot-unit-testing
+ceTaskId=9efea97c-cc1a-41d2-86dc-0fdc2aa777fd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9efea97c-cc1a-41d2-86dc-0fdc2aa777fd
