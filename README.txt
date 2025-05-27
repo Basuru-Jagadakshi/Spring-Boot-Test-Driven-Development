@@ -9,4 +9,4 @@ Password: admin
 Log into your SonarQube instance and navigate to My Account > Security.
 Generate a new token by clicking Generate Tokens and copying it. Then replace the token as below.
 
-mvn clean test verify sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=squ_9634c748aa5098c9eb1256d3c9aac30dd5ba9580
+mvn clean test verify sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=squ_
